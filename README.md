@@ -49,6 +49,8 @@ http://sportlotteryptt.rf.gd/
 #### 功能  
 ． （尚未描述，待補）  
 
+<img src="https://github.com/user-attachments/assets/d0538704-30cb-4455-a95e-776341415d57?raw=true" width="48%">
+
 &#8203;  
 
 #### 待解問題  
